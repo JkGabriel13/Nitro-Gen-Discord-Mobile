@@ -15,7 +15,7 @@ Walking Store Gen é um aplicativo para Android desenvolvido para gerar códigos
 
 📥 Como Instalar
 
-1. 📌 Baixe o APK do Walking Store Gen a partir do repositório ou do site oficial.
+1. 📌 Baixe o APK do Walking Store Gen a partir do repositório ou do site oficial ou [Aqui][https://4br.me/walking_Gen]
 
 
 2. 🔧 No seu dispositivo Android, habilite a opção "Instalar apps de fontes desconhecidas" nas configurações de segurança.
