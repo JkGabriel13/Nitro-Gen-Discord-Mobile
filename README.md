@@ -42,6 +42,7 @@ Walking Store Gen é um aplicativo para Android desenvolvido para gerar códigos
 Apk [https://4br.me/walking_Gen]
  
 Servidor Do Discord=[https://discord.gg/TjqZPytd93]
+
 ⚠️ Aviso Legal
 
 Este aplicativo é apenas para fins educacionais. O uso indevido pode violar os Termos de Serviço do Discord. O desenvolvedor não se responsabiliza por qualquer uso inadequado. ❌
